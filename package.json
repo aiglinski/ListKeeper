@@ -1,0 +1,25 @@
+{
+  "name": "jstasklist",
+  "version": "1.0.0",
+  "description": "taskList from udemy",
+  "main": "app.js",
+  "dependencies": {
+    "mongoose": "^5.6.4"
+  },
+  "devDependencies": {
+    "eslint": "^6.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aiglinski/ListKeeper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aiglinski/ListKeeper/issues"
+  },
+  "homepage": "https://github.com/aiglinski/ListKeeper#readme"
+}
